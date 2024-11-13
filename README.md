@@ -14,4 +14,5 @@ The `python` folder contains the Kalman filter algorithm in Python, with the fol
 
 The `CPP` folder contains the Kalman filter algorithm implemented in C++. It includes:
 
-- **kalman.cpp**: Contains a Kalman filter class. Ensure that the Eigen library is installed to use this implementation.
+- **kalman.cpp**: Contains a Kalman filter class.
+- Ensure that the Eigen library is installed to use this implementation.
